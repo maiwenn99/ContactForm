@@ -71,3 +71,9 @@ button {
 
     margin-left: .5em;
 }
+
+.centered {
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
